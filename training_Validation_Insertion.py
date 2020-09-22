@@ -50,6 +50,10 @@ class train_validation:
             self.log_writer.log(self.file_object, "Good_Data folder deleted!!!")
             self.log_writer.log(self.file_object, "Moving bad files to Archive and deleting Bad_Data folder!!!")
 
+            self.log_writer.log(self.file_object, "Good_Data folder deleted!!!")
+            self.log_writer.log(self.file_object, "Moving bad files to Archive and deleting Bad_Data folder!!!")
+            self.log_writer.log(self.file_object, "Good_Data folder deleted!!!")
+            self.log_writer.log(self.file_object, "Moving bad files to Archive and deleting Bad_Data folder!!!")
 
 
 
