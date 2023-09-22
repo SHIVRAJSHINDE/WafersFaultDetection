@@ -1,0 +1,86 @@
+2023-09-20/16:44:46		Error while creating table: unable to open database file 
+2023-09-20/16:48:18		Error while creating table: unable to open database file 
+2023-09-20/16:49:06		Error while creating table: unable to open database file 
+2023-09-20/18:05:26		Error while creating table: name 'conn' is not defined 
+2023-09-20/18:17:16		Error while creating table: name 'conn' is not defined 
+2023-09-20/18:24:01		Error while creating table: 1007 (HY000): Can't create database 'mlproject'; database exists 
+2023-09-20/18:24:21		Error while creating table: 1046 (3D000): No database selected 
+2023-09-20/22:20:20		Error while creating table: 1007 (HY000): Can't create database 'mlproject'; database exists 
+2023-09-20/22:20:43		Error while creating table: 1046 (3D000): No database selected 
+2023-09-21/10:38:11		Error while creating table: 1146 (42S02): Table 'mlproject.sqlite_master' doesn't exist 
+2023-09-21/10:46:36		Error while creating table: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 
+2023-09-21/10:48:00		Error while creating table: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 
+2023-09-21/10:49:08		Error while creating table: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 
+2023-09-21/10:54:19		Error while creating table: 1146 (42S02): Table 'mlproject.training' doesn't exist 
+2023-09-21/11:57:48		Error while creating table: 'dBOperation' object has no attribute 'DatabaseName' 
+2023-09-21/11:58:58		Error while creating table: 'dBOperation' object has no attribute 'DatabaseName' 
+2023-09-21/12:00:36		Error while creating table: unable to open database file 
+2023-09-21/12:01:28		Error while creating table: 1049 (42000): Unknown database 'training_database/training.db' 
+2023-09-21/12:02:16		Error while creating table: 'dBOperation' object has no attribute 'DatabaseName' 
+2023-09-21/12:03:15		Error while creating table: 'dBOperation' object has no attribute 'DatabaseName' 
+2023-09-21/12:04:08		Error while creating table: 'dBOperation' object has no attribute 'DatabaseName' 
+2023-09-21/12:05:10		Error while creating table: 'dBOperation' object has no attribute 'DatabaseName' 
+2023-09-21/12:08:48		Error while creating table: 'dBOperation' object has no attribute 'DatabaseName' 
+2023-09-21/12:27:46		Error while creating table: 'dBOperation' object has no attribute 'DatabaseName' 
+2023-09-21/12:28:23		Error while creating table: 'dBOperation' object has no attribute 'DatabaseName' 
+2023-09-21/12:28:58		Error while creating table: 'dBOperation' object has no attribute 'DatabaseName' 
+2023-09-21/12:30:12		Error while creating table: 1146 (42S02): Table 'mlproject.sqlite_master' doesn't exist 
+2023-09-21/12:48:56		Error while creating table: 1146 (42S02): Table 'training.sqlite_master' doesn't exist 
+2023-09-21/12:52:33		Error while creating table: 'MySQLConnection' object has no attribute 'execute' 
+2023-09-21/12:53:32		Error while creating table: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 
+2023-09-21/12:58:50		Error while creating table: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 
+2023-09-21/13:01:15		Error while creating table: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 
+2023-09-21/15:07:49		Error while creating table: 1146 (42S02): Table 'training.sqlite_master' doesn't exist 
+2023-09-21/15:08:26		Error while creating table: No result set to fetch from 
+2023-09-21/15:10:30		Error while creating table: 'MySQLConnection' object has no attribute 'execute' 
+2023-09-21/15:10:57		Error while creating table: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 
+2023-09-21/15:12:49		Error while creating table: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '- 1  float)' at line 1 
+2023-09-21/15:13:33		Error while creating table: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '- 1 float)' at line 1 
+2023-09-21/15:19:56		Error while creating table: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '- 1  float)' at line 1 
+2023-09-21/15:21:16		Error while creating table: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '- 1 float)' at line 1 
+2023-09-21/16:22:03		Error while creating table: 1050 (42S01): Table 'good_raw_data' already exists 
+2023-09-21/16:24:44		Error while creating table: 1050 (42S01): Table 'good_raw_data' already exists 
+2023-09-21/16:25:42		Error while creating table: 1050 (42S01): Table 'good_raw_data' already exists 
+2023-09-21/16:27:48		Error while creating table: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"Wafer" varchar(255)' at line 1 
+2023-09-21/16:29:10		Error while creating table: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"Wafer" varchar(255)' at line 1 
+2023-09-21/16:30:02		Error while creating table: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"Wafer" varchar(255)' at line 1 
+2023-09-21/16:30:25		Error while creating table: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"Wafer" varchar' at line 1 
+2023-09-21/16:30:46		Error while creating table: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"Wafer" varchar' at line 1 
+2023-09-21/16:31:13		Error while creating table: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"`Wafer`" varchar' at line 1 
+2023-09-21/16:33:09		Error while creating table: 1060 (42S21): Duplicate column name 'Wafer' 
+2023-09-21/16:34:09		Error while creating table: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '- 3  float' at line 1 
+2023-09-21/16:37:00		Error while creating table: 1060 (42S21): Duplicate column name 'Wafer' 
+2023-09-21/16:40:47		Error while creating table: 'MySQLCursor' object has no attribute 'commit' 
+2023-09-21/17:32:24		Error while creating table: 1051 (42S02): Unknown table 'training.table_name' 
+2023-09-21/17:34:27		Error while creating table: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'None None' at line 1 
+2023-09-21/17:37:03		Error while creating table: 1051 (42S02): Unknown table 'training.good_raw_data' 
+2023-09-21/17:43:01		Error while creating table: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 
+2023-09-21/17:43:54		Error while creating table: 1051 (42S02): Unknown table 'training.good_raw_data' 
+2023-09-21/17:49:20		Error while creating table: 1051 (42S02): Unknown table 'training.good_raw_data' 
+2023-09-21/17:51:28		Error while creating table: 'MySQLConnection' object has no attribute 'execute' 
+2023-09-21/17:53:27		Error while creating table: 1060 (42S21): Duplicate column name 'Wafer' 
+2023-09-21/17:54:17		Error while creating table: 1060 (42S21): Duplicate column name 'Wafer' 
+2023-09-21/17:55:30		Error while creating table: 1051 (42S02): Unknown table 'training.good_raw_data' 
+2023-09-21/17:56:16		Error while creating table: 1060 (42S21): Duplicate column name 'Wafer' 
+2023-09-21/18:01:07		Error while creating table: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 
+2023-09-21/18:23:31		Error while creating table: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 
+2023-09-21/18:25:33		Tables created successfully!!
+2023-09-21/18:27:06		Tables created successfully!!
+2023-09-21/18:29:07		Error while creating table: 1091 (42000): Can't DROP 'abc'; check that column/key exists 
+2023-09-21/18:29:38		Error while creating table: 1091 (42000): Can't DROP 'abc'; check that column/key exists 
+2023-09-21/18:30:50		Error while creating table: 1091 (42000): Can't DROP 'abc'; check that column/key exists 
+2023-09-21/18:32:04		Error while creating table: 1091 (42000): Can't DROP 'abc'; check that column/key exists 
+2023-09-21/18:33:33		Tables created successfully!!
+2023-09-21/18:37:50		Tables created successfully!!
+2023-09-22/14:10:05		Tables created successfully!!
+2023-09-22/14:32:19		Tables created successfully!!
+2023-09-22/14:35:22		Tables created successfully!!
+2023-09-22/14:39:54		Tables created successfully!!
+2023-09-22/14:41:38		Tables created successfully!!
+2023-09-22/14:44:13		Tables created successfully!!
+2023-09-22/18:57:15		Tables created successfully!!
+2023-09-22/18:58:00		Tables created successfully!!
+2023-09-22/19:05:17		Tables created successfully!!
+2023-09-22/19:06:04		Tables created successfully!!
+2023-09-22/19:21:01		Tables created successfully!!
+2023-09-22/19:27:36		Tables created successfully!!
