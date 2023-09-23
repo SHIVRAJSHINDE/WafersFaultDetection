@@ -63,6 +63,8 @@ class train_validation:
 
 if __name__ == "__main__":
     obj = train_validation("D:\MachineLearningProjects\PROJECT\WafersFaultDetection\Training_Batch_Files")
+    #obj = train_validation("D:\MachineLearningProjects\PROJECT\WafersFaultDetection\Training_Batch_Files")
+
     obj.train_validation()
 
 
